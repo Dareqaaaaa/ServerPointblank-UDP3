@@ -1,5 +1,7 @@
 # Point Blank Server Private - UDP3
 
+Client version `1.15.42`
+
 ## Resumo
 Este servidor é uma versão adapitada e modificada completamente por mim .  Foi utilizado como base a source publica que como muitos sabem, é cheia de falhas, bugs e vulnerabilidades. 
 Desenvolvi essa versão inicialmente para o  **Project Bloodi**, assim como o website que também está publico no meu github.
